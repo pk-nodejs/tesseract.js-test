@@ -1,0 +1,19 @@
+{
+  "name": "tesseract.js-test",
+  "version": "0.1.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.8.0"
+  },
+  "scripts": {},
+  "dependencies": {
+    "tesseract.js": "^1.0.10"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pk-nodejs/tesseract.js-test.git"
+  },
+  "description": "tesseract.js test",
+  "license": "MIT"
+}
