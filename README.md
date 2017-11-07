@@ -44,12 +44,26 @@ https://raw.githubusercontent.com/naptha/tessdata/gh-pages/3.02/eng.traineddata.
     * Garamond - R
     * Bookman Old Style - R
     * Arial - R
-    * Helvetica
-    * Verdana
-    * Georgia
-    * Lucida Sans
-    * Lucida Bright
-    * Century Schoolbook
-    * Frutiger or Futura
-    * Gill Sans
+    * Helvetica - Unable to find font.
+    * Verdana - R
+    * Georgia - R
+    * Lucida Sans - R
+    * Lucida Bright - R
+    * Century Schoolbook - R
+    * Frutiger or Futura - Unable to find font.
+    * Gill Sans - R
 
+### Recognitions
+
+| Font Name   |      File      |  Recognition | Confidence | Observations |
+|----------|-------------|------|:-----:|-------|
+| Times New Roman |  [Times_New_Roman_26.png](images/Times_New_Roman_26.png) | 'Times New Roman with font size 26 - Font\nto check the recognition.\nYes it is able to recognize.\n\n' | 88 | None |
+| Garamond | [Garamond_26.png](images/Garamond_26.png) | 'Garamond with font size 26 , Font to check\nthe recognition.\nYes it is able to recognize.\n\n' | 83 | - is recognized as , | 
+| Bookman Old Style | [Bookman_Old_Style_26.png](images/Bookman_Old_Style_26.png) | 'BookInan Old Style with font size 26\n— Font to check the recognition.\nYes it is able to recognize.\n\n' | 88 | Bookman is recognized as BookInan |
+| Arial | [Arial_26.png](images/Arial_26.png) | 'Arial with font size 26 - Font to check\nthe recognition.\nYes it is able to recognize.\n\n' | 92 | None |
+| Verdana | [Verdana_26.png](images/Verdana_26.png) | 'Verdana with font size 26 - Font to\ncheck the recognition.\nYes it is able to recognize.\n\n' | 95 | None |
+| Georgia | [Georgia_26.png](images/Georgia_26.png) | 'Georgia with font size 26 - Font to check\nthe recognition.\nYes it is able to recognize.\n\n' | 90 | None |
+| Lucida Sans | [Lucida_Sans_26.png](images/Lucida_Sans_26.png) | 'Lucida Sans with font size 26 — Font\nto check the recognition.\nYes it is able to recognize.\n\n' | 91 | None |
+| Lucida Bright | [Lucida_Bright_26.png](images/Lucida_Bright_26.png) | 'Lucida Bright with font size 26 —\nFont to check the recognition.\nYes it is able to recognize.\n\n' | 89 | None |
+| Century Schoolbook | [Century_Schoolbook_26.png](images/Century_Schoolbook_26.png) | 'Century Schoolbook with font size 26 -\nFont to check the recognition.\nYes it is able to recognize.\n\n' | 89 | None |
+| Gill Sans MT | [Gill_Sans_MT_26.png](images/Gill_Sans_MT_26.png) | 'Gill Sans MT with font size 26 - Font to\ncheck the recognition.\nYes it is able to recognize.\n\n' | 89 | None |
