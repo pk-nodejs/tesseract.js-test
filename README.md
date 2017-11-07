@@ -67,3 +67,4 @@ https://raw.githubusercontent.com/naptha/tessdata/gh-pages/3.02/eng.traineddata.
 | Lucida Bright | [Lucida_Bright_26.png](images/Lucida_Bright_26.png) | 'Lucida Bright with font size 26 —\nFont to check the recognition.\nYes it is able to recognize.\n\n' | 89 | None |
 | Century Schoolbook | [Century_Schoolbook_26.png](images/Century_Schoolbook_26.png) | 'Century Schoolbook with font size 26 -\nFont to check the recognition.\nYes it is able to recognize.\n\n' | 89 | None |
 | Gill Sans MT | [Gill_Sans_MT_26.png](images/Gill_Sans_MT_26.png) | 'Gill Sans MT with font size 26 - Font to\ncheck the recognition.\nYes it is able to recognize.\n\n' | 89 | None |
+| Hand Written 01 | [hand_wrriten_01.png](images/hand_written_01.png) | 'ﬂag W brawn fax\nJaw M ii; Lew\nhound.\n\n' | 51 | brown recognized as brawn, fox recognized as fax, hound recognized correctly, all others are failed miserably. |
