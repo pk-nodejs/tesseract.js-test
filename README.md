@@ -44,13 +44,13 @@ https://raw.githubusercontent.com/naptha/tessdata/gh-pages/3.02/eng.traineddata.
     * Garamond - R
     * Bookman Old Style - R
     * Arial - R
-    * Helvetica - Unable to find font.
+    * Helvetica - Unable to find font in Microsoft Word.
     * Verdana - R
     * Georgia - R
     * Lucida Sans - R
     * Lucida Bright - R
     * Century Schoolbook - R
-    * Frutiger or Futura - Unable to find font.
+    * Frutiger or Futura - Unable to find font in Microsoft Word.
     * Gill Sans - R
 
 ### Recognitions
