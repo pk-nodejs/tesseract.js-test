@@ -1,0 +1,26 @@
+
+
+Adding new training data to existing trained data
+
+Google search : tesseract add more training samples to existing traineddata
+
+https://stackoverflow.com/questions/16332986/adding-new-fonts-to-tesseract-eng-traineddata
+
+Google search : tesseract english training data download
+
+Exiting training datasets available at
+https://github.com/tesseract-ocr/tessdata
+
+Google search : handwritten english character dataset
+https://www.researchgate.net/post/Where_can_I_find_a_handwritten_character_dataset
+https://stackoverflow.com/questions/17296140/handwritten-english-character-data-set-where-to-get-and-openly-available
+https://www.quora.com/Where-do-I-get-Training-dataset-for-English-Handwritten-Characters-recognition-engine
+
+
+tesseract ocr group
+https://groups.google.com/forum/#!forum/tesseract-ocr
+
+https://stackoverflow.com/questions/39164883/font-recognition-from-free-hand-drawing
+
+Download English data set
+http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
